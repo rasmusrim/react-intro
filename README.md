@@ -61,5 +61,6 @@
     - Otherwise we would have to fetch from API each time a component is rerendered.
     - Show useEffect with empty array as argument.
 - Either generate a random temperature or actually fetch it from https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=60.10&lon=9.58
+- Show React component navigator in Chrome.
 
 ## Conclusion. Show goals and go through them again.
