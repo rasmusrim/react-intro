@@ -13,6 +13,7 @@
     1. how to set up a form in React.  
     1. what Redux is, and what problem it solves.
 - Will be hands-on if you want to.
+    - Interrupt me at any time.
     - Code along or just watch.
     - Will use repl.it. 
 
